@@ -8,7 +8,6 @@ I am a third-year Software Engineering undergraduate student at the University o
 
 - 🌱 Currently learning: Advanced Web Applications Development, Business Intelligence and Management Support Systems, Business Systems Modelling and Optimization,  and Health Information Management.
 - 💼 Open to internships and exciting opportunities to further develop my skills.
-<!--- 🎓 Recently completed: 'Programming Foundations: Algorithms', 'Project Management Fundamentals', and 'Learning Git and GitHub'.-->
 - 📚 Completed Courses:
   1. [Coursera - A Tour of Google Cloud Hands-on Labs](https://www.coursera.org/account/accomplishments/certificate/YOUR_CERTIFICATE_ID)
   2. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/certificates/399008f5b6857630660fb55f5269d81d4b7a9e7f0cea65aab65d155e703aab8c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BgbdYUYaaTfeikKGxrstY9Q%3D%3D)
@@ -17,6 +16,7 @@ I am a third-year Software Engineering undergraduate student at the University o
   5. [Power Bl Data Visualization and Dashboard Ti s, Tricksz
 & Techniques](https://www.linkedin.com/learning/certificates/e09daa5c050cc54d552050619effd6c7e1e896225e3f4b3264be0d53c2565e6a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BgbdYUYaaTfeikKGxrstY9Q%3D%3D)
   6. [What is Data Science?](https://coursera.org/share/cd9d0edaca0e61352a2b32e5e629d9df).
+<!--- 🎓 Recently completed: 'Programming Foundations: Algorithms', 'Project Management Fundamentals', and 'Learning Git and GitHub'.-->
 
 ### Skills
 
