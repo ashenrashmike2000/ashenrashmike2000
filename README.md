@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a third-year Software Engineering undergraduate student at the University of Kelaniya, with a passion for **Software Testing, Data science, Cloud computing, and Health Informatics**. I enjoy solving real-world problems through software applications and am eager to make a positive impact in the tech industry.
+I am a third-year Software Engineering undergraduate student at the University of Kelaniya, with a passion for **Software Testing, Data science, and Health Informatics**. I enjoy solving real-world problems through software applications and am eager to make a positive impact in the tech industry.
 
 - 🌱 Currently learning: Advanced Web Applications Development, Business Intelligence and Management Support Systems, Business Systems Modelling and Optimization,  and Health Information Management.
 - 💼 Open to internships and exciting opportunities to further develop my skills.
