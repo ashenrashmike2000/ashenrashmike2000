@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a third-year Software Engineering undergraduate student at the University of Kelaniya. I am passionate about Software Testing, Data science, and Health Informatics. I enjoy solving real-world problems through software applications and am eager to make a positive impact in the tech industry.
+I am a final-year undergraduate student in Software Engineering at the University of Kelaniya. I am passionate about Software Testing, Data Science, and Health Informatics. I enjoy solving real-world problems through software applications and am eager to make a positive impact in the tech industry.
 
 - 🌱 Currently learning domains: **Net-Centric Domain**, **Data Science Domain**, **Business Engineering Domain**,  and **Health Informatic Domain**.
 - 💼 Open to internships and exciting opportunities to further develop my skills.
