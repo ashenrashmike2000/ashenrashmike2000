@@ -43,7 +43,6 @@ My recent research focused on the **Performance Comparison of Vector Databases**
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ashen-rashmika-90a447213)
-- [Twitter](https://x.com/ARashmike2610)
 - [Email](mailto:mpashenrashmike@gmail.com)
 
 ---
