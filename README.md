@@ -17,7 +17,7 @@ My recent research focused on the **Performance Comparison of Vector Databases**
 
 - **QA & Testing**: Selenium, Jenkins, Jira, Maven, Manual & Automation Testing.
 - **Programming**: Java, Python, PHP, JavaScript.
-- **Data & Research**: Vector Databases, MySQL, SPARQL, RDF, Power BI.
+- **Data & Research**: Vector Databases, MySQL, Power BI.
 - **Web**: Spring Boot, REST APIs, HTML/CSS.
 
 ### Projects
